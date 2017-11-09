@@ -1,7 +1,9 @@
 # User-roles-permissions
 
 make sure you have mongo and node installed on your system
-then do `npm install`
+
+
+clone this repo and browse to the project directory and do `npm install`
 
 Please use `npm start` to start the server,
 use `npm test` to run test cases.
